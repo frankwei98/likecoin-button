@@ -43,7 +43,7 @@
     "eslint-loader": "^2.1.1",
     "eslint-plugin-import": "^2.14.0",
     "eslint-plugin-nuxt": "^0.3.0",
-    "eslint-plugin-vue": "^5.1.0",
+    "eslint-plugin-vue": "^5.2.1",
     "node-sass": "^4.11.0",
     "sass-loader": "^7.1.0",
     "stylelint": "^9.9.0",
