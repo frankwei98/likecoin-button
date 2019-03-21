@@ -26,7 +26,7 @@
     "gsap": "^2.1.1",
     "lodash": "^4.17.10",
     "lodash.debounce": "^4.0.8",
-    "nuxt-start": "^2.3.4",
+    "nuxt-start": "^2.5.1",
     "nuxt-svg-loader": "^1.0.1",
     "source-map-support": "^0.5.4",
     "url-parse": "^1.4.4",
